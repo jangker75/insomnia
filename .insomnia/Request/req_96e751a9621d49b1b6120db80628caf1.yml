@@ -1,0 +1,35 @@
+_id: req_96e751a9621d49b1b6120db80628caf1
+type: Request
+parentId: fld_a9991afc62734304a6c24634d6e716f8
+modified: 1693378540423
+created: 1693378411521
+url: 172.20.5.134:8084/WS_Proper/resources/TRndCosting/getPriceControl
+name: Get price control
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_c1c9735f59e741f7854c7012a3e9be42
+    name: werks
+    value: "1012"
+    description: ""
+  - id: pair_0a4c0c3ede0141fcbd07780a7d4592b1
+    name: matnr
+    value: "12000378"
+    description: ""
+  - id: pair_22ed4921352b41fd95a26d3be89bc4f4
+    name: isDebug
+    value: X
+    description: ""
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.3
+authentication: {}
+metaSortKey: -1693378411521
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

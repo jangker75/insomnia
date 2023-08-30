@@ -1,0 +1,39 @@
+_id: req_e363a758fba2431d97902d9f1d908838
+type: Request
+parentId: fld_a9991afc62734304a6c24634d6e716f8
+modified: 1692753197117
+created: 1692692142114
+url: 172.20.5.134:8084/WS_Proper/resources/TRndCosting/getListAltBOM
+name: getListAltBOM
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    [
+    	{
+    		"MATNR" : "12000378",
+    		"WERKS" : "1012",
+    		"isDebug" : "X"
+    	},
+    	{
+    		"MATNR" : "12000379",
+    		"WERKS" : "1012",
+    		"isDebug" : "X"
+    	}
+    ]
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.3
+authentication: {}
+metaSortKey: -1692692142114
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

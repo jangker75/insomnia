@@ -1,0 +1,37 @@
+_id: req_94897a9d3e254fd0953f5fed778cf2b6
+type: Request
+parentId: fld_a9991afc62734304a6c24634d6e716f8
+modified: 1693208992393
+created: 1692869382574
+url: 172.20.5.134:8084/WS_Proper/resources/TFormulationH
+name: Getlist TFormulationH
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_2c4db68771f34ef6af9a0811db8b0d54
+    name: isDebug
+    value: X
+    description: ""
+  - id: pair_f4ef6ef9d215435a98ef4ff810fcfd90
+    name: documentNo
+    value: "1235"
+    description: ""
+    disabled: true
+  - id: pair_2b08dde62c12442aaef9bf950e956124
+    name: materialSFG
+    value: "12000378"
+    description: ""
+    disabled: false
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.3
+authentication: {}
+metaSortKey: -1692869382574
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

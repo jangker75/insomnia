@@ -1,0 +1,109 @@
+_id: req_806288c7fb114464af0b6a9dcc7856d7
+type: Request
+parentId: fld_a9991afc62734304a6c24634d6e716f8
+modified: 1693235074689
+created: 1693235061678
+url: localhost:8080/WS_Proper/resources/TRndCosting/updateFormulation
+name: updateFormulation
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"isDebug": "X",
+    	"header": {
+    		"plant": "1012",
+    		"materialSFG": "12000378",
+    		"materialSFGDesc": "SURAN004L",
+    		"baseQtySFG": "1000",
+    		"documentName": "document no",
+    		"notes": "TEsat notes",
+    		"createdBy": "9860"
+    	},
+    	"detail": [
+    		{
+    			"documentNo": 0,
+    			"plant": "1012",
+    			"materialSFG": "12000378",
+    			"matRecipeMid": "10000195",
+    			"matRecipeDesc": "BBSUR003L",
+    			"priceControl": "V",
+    			"lastCostingRun": "",
+    			"macPrice": "12120.78",
+    			"poPrice": "2000",
+    			"vendorDesc": "VENDOR A",
+    			"bomPercentage": "100",
+    			"bomPrice": 10782,
+    			"altPercentage1": "0",
+    			"altPrice1": "0",
+    			"altPercentage2": "0",
+    			"altPrice2": "0",
+    			"altPercentage3": "0",
+    			"altPrice3": "0",
+    			"altPercentage4": "0",
+    			"altPrice4": "0",
+    			"altPercentage5": "0",
+    			"altPrice5": "0",
+    			"altPercentage6": "0",
+    			"altPrice6": "0",
+    			"altPercentage7": "0",
+    			"altPrice7": "0",
+    			"altPercentage8": "0",
+    			"altPrice8": "0",
+    			"altPercentage9": "0",
+    			"altPrice9": "0",
+    			"altPercentage10": "0",
+    			"altPrice10": "0"
+    		},
+    		{
+    			"documentNo": 0,
+    			"plant": "1012",
+    			"materialSFG": "12000378",
+    			"matRecipeMid": "10000199",
+    			"matRecipeDesc": "BBSUR007L",
+    			"priceControl": "V",
+    			"lastCostingRun": "",
+    			"macPrice": "892.45",
+    			"poPrice": "1000",
+    			"vendorDesc": "VENDOR A",
+    			"bomPercentage": "100",
+    			"bomPrice": 10782,
+    			"altPercentage1": "0",
+    			"altPrice1": "0",
+    			"altPercentage2": "0",
+    			"altPrice2": "0",
+    			"altPercentage3": "0",
+    			"altPrice3": "0",
+    			"altPercentage4": "0",
+    			"altPrice4": "0",
+    			"altPercentage5": "0",
+    			"altPrice5": "0",
+    			"altPercentage6": "0",
+    			"altPrice6": "0",
+    			"altPercentage7": "0",
+    			"altPrice7": "0",
+    			"altPercentage8": "0",
+    			"altPrice8": "0",
+    			"altPercentage9": "0",
+    			"altPrice9": "0",
+    			"altPercentage10": "0",
+    			"altPrice10": "0"
+    		}
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.3
+authentication: {}
+metaSortKey: -1692995536372.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

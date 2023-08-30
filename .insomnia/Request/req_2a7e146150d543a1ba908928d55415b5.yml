@@ -1,0 +1,44 @@
+_id: req_2a7e146150d543a1ba908928d55415b5
+type: Request
+parentId: fld_a9991afc62734304a6c24634d6e716f8
+modified: 1693153811715
+created: 1692677905694
+url: 172.20.5.134:8084/WS_Proper/resources/TRndCosting/getDetailFormulation
+name: get detail formulation
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_66a0907a5c55468f89759aa377fd15fa
+    name: werks
+    value: "1012"
+    description: ""
+  - id: pair_a7db644692aa4deca45bee19e0c3954c
+    name: matnr
+    value: "12000378"
+    description: ""
+  - id: pair_454e2a2fb893479cba0e46432cf7e2d6
+    name: isDebug
+    value: X
+    description: ""
+  - id: pair_062cdec484ff470db352d897e21e9db6
+    name: stlal
+    value: "1"
+    description: ""
+  - id: pair_2918188bf5f140719b64847005a3d081
+    name: altBomDesc
+    value: test
+    description: ""
+    disabled: false
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.3
+authentication: {}
+metaSortKey: -1692677905694
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

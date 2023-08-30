@@ -1,0 +1,27 @@
+_id: req_4328720fee274037bffeadb570abd86e
+type: Request
+parentId: fld_a9991afc62734304a6c24634d6e716f8
+modified: 1692699365171
+created: 1692693464954
+url: localhost:8080/WS_Proper/resources/MRnDCosting/getListMProjectOwner
+name: getListMProjectOwner
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_f2456c39bb264521bd7c744fe5c5a605
+    name: nik
+    value: "9860"
+    description: ""
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.3
+authentication: {}
+metaSortKey: -1692693464954
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

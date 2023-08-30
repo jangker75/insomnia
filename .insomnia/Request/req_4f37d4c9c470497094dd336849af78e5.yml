@@ -1,0 +1,29 @@
+_id: req_4f37d4c9c470497094dd336849af78e5
+type: Request
+parentId: fld_d9d165fdcb35462f920031f9ca3ddc8d
+modified: 1692095099555
+created: 1691677629405
+url: localhost:8080/WS_Proper/resources/MRnDCosting/testSAP
+name: test
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_0cb1ba99ed624f9fa01e38a64c2facdf
+    name: matnr
+    value: "10000012"
+    description: ""
+  - id: pair_df124367a44e46c4a2cd62f2bd57670c
+    name: isDebug
+    value: X
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1691677629405
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

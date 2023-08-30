@@ -1,0 +1,36 @@
+_id: req_b2a7a54ab1a24354afa42263dad8f9cd
+type: Request
+parentId: fld_a9991afc62734304a6c24634d6e716f8
+modified: 1693413141879
+created: 1693206885036
+url: 172.20.5.134:8084/WS_Proper/resources/TRndCosting/getDetailFormulationWithDocumentNo
+name: getDetailFormulationWithDocumentNo
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_66a0907a5c55468f89759aa377fd15fa
+    name: werks
+    value: "1012"
+    description: ""
+  - id: pair_a7db644692aa4deca45bee19e0c3954c
+    name: documentNo
+    value: "1273"
+    description: ""
+  - id: pair_454e2a2fb893479cba0e46432cf7e2d6
+    name: isDebug
+    value: X
+    description: ""
+    disabled: true
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.3
+authentication: {}
+metaSortKey: -1692177767549.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
